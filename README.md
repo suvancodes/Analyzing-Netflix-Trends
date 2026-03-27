@@ -70,7 +70,7 @@ Netflix_Data_Analysis/
 
 ## 📸 Dashboard Preview
 
-> Tableau dashboard provides interactive visualization of all key metrics.
+> [Tableau dashboard provides interactive visualization of all key metrics.](https://public.tableau.com/app/profile/suvankar.payra/viz/netflix_17739024504610/Dashboard1)
 
 ---
 
